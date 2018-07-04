@@ -1,0 +1,18 @@
+
+Ergebnisse für Datei test_data/test1.csv
+Ergebnis für Patient 036 ist positive.
+Ergebnis für Patient 039 ist nicht beurteilbar.
+Ergebnis für Patient 040 ist negative.
+Ergebnis für Patient 041 ist negative.
+Ergebnis für Patient 042 ist negative.
+Ergebnis für Patient 043 ist negative.
+Ergebnis für Patient 044 ist negative.
+Ergebnis für Patient 045 ist positive.
+Ergebnis für Patient 050 ist negative.
+Ergebnis für Patient 051 ist negative.
+Ergebnis für Patient 053 ist negative.
+Ergebnis für Patient 054 ist negative.
+Ergebnis für Patient 055 ist negative.
+Ergebnis für Patient 056 ist positive.
+Ergebnis für Patient 057 ist nicht beurteilbar.
+
